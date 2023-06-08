@@ -1,0 +1,22 @@
+.navNavBarContainer {
+  display: flex;
+  justify-content: space-around;
+  position: static;
+  
+}
+
+p {
+  position: relative;
+  left: 0px;
+}
+ 
+.nav-orange {
+  height: 80px;
+  background: linear-gradient(to top, rgba(255,142,10, 0.2), rgba(255, 255, 255, 1));;
+}
+
+div button {
+  background: none;
+  border: none;
+}
+

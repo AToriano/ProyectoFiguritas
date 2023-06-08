@@ -1,0 +1,27 @@
+.inputSearchBar {
+  width: 264px;
+  height: 24px;
+
+  /* Body/Body Medium - 16px/Regular */
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  letter-spacing: 0.5px;
+
+  /* Medios Tonos/Gris 2 */
+
+  color: #bfc0c1;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 16px;
+  gap: 12px;
+  border-radius: 0px 16px;
+}

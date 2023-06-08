@@ -1,0 +1,16 @@
+#root {
+  text-align: center;
+  overflow-x: hidden;
+}
+.link {
+  text-decoration: none;
+  
+  
+}
+
+* {
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+  padding: 0;
+  margin: 0;
+}

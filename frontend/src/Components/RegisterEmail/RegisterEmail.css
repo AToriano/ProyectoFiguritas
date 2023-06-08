@@ -1,0 +1,39 @@
+
+.formRegister {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #26262E;
+  font-weight: bold;
+}
+
+.divConfirmButton {
+    position: relative;
+    margin-top: 400px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    right: 52px;
+    letter-spacing: 1px;
+}
+
+p {
+    font-family: 'Rubik', sans-serif;
+    color: #838486;
+    font-weight: medium;
+    position: relative;
+    right: 40px;
+    letter-spacing: 1px;
+    font-size: 12px;
+}

@@ -1,0 +1,26 @@
+.divPagina{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.listaAlbums{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 6rem;
+    width: 20rem;
+    border: solid;
+    position:initial;
+}
+.nuevoJuego{
+    color: white;
+    background-color: darkolivegreen;
+border-radius: 8px;
+height: 3rem;
+width: 7rem;
+margin: .5rem;
+cursor: pointer;
+}

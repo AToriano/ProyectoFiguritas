@@ -1,0 +1,65 @@
+.formUser {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #26262E;
+  font-weight: bold;
+}
+.divLogInuserContainer {
+  height: 100vh;
+}
+.divConfirmButton {
+  position: relative;
+  margin-top: 400px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+h2 {
+  font-size: 27px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+  position: relative;
+  right: 48px;
+  letter-spacing: 1px;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: bold;
+  position: relative;
+  right: 88px;
+  letter-spacing: 1px;
+}
+
+.security {
+  font-family: 'Rubik', sans-serif;
+  color: #838486;
+  font-weight: medium;
+  position: relative;
+  right: 19px;
+  letter-spacing: 1px;
+  font-size: 12px;
+}
+
+.conditions {
+  color: #26262E;
+  position: relative;
+  left: 0px;
+}
+/* .checkboxTerms {
+  -webkit-appearance: none;
+ -moz-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  background: url("../../assets/icons/icon-placeholder.svg") ;
+  background-size: contain;
+  border: none;
+  outline: none;
+  cursor: pointer;
+} */

@@ -1,0 +1,23 @@
+.divHeaderContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+  height: 80px;
+  font-family: 'Rubik', sans-serif;
+  background: linear-gradient(to bottom, rgba(255,142,10, 0.2), rgba(255, 255, 255, 1));
+}
+
+.imgHeaderBackArrow {
+  
+  position: relative;
+  right: 110px; 
+}
+
+.HeaderTitle {
+  color: #26262E;
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+}

@@ -1,0 +1,32 @@
+.btnStart {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 16px;
+  gap: 12px;
+  /* border-radius: 0px 16px; */
+  width: 320px;
+  height: 48px;
+  font-weight: 1000;
+  letter-spacing: 2px;
+}
+
+.bg-orange {
+  background-color: #978a7bbd;
+  color: rgb(63, 47, 204);
+  border: 1px #978a7bbd solid;
+}
+.bg-tranparent {
+  background-color: transparent;
+  border: 2px #000000 solid;
+}
+.bg-white {
+  background-color: #978a7bbd;
+  color: rgb(63, 47, 204);
+  border: 1px #978a7bbd solid;
+}
+
+button:disabled {
+  background: #ccc;
+}

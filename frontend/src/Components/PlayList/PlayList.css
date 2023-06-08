@@ -1,0 +1,21 @@
+.articleImgContainer {
+  display: inline;
+
+  width: 320px;
+  height: 48px;
+}
+
+article img {
+  width: 150px;
+  height: 130px;
+  border-radius: 0px 16px;
+}
+
+.sections {
+  display: flex;
+  justify-content: space-evenly;
+}
+.btnPlayList {
+  border: none;
+  background: none;
+}

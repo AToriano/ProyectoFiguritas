@@ -1,0 +1,13 @@
+.divSelectionbutton {
+    
+    padding: 0px;
+    
+    display: inline;
+
+    
+    /* Blanco */
+    
+    background: yellow;
+    box-shadow: 0px 0px 5.33333px rgba(8, 8, 17, 0.04), 1.77778px 1.77778px 3.55556px rgba(8, 8, 17, 0.08);
+    border-radius: 32px;
+}
